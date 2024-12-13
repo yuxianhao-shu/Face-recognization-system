@@ -1,4 +1,4 @@
-# Face-recognization-system-based-on-tongyiqianwen
+# Face-recognization-system-based-on-Qwen
 A Face recognization system based on artficial intelligence
 1.  算法设计与开发
 •  负责研究和实现人脸识别算法。
