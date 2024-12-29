@@ -1,5 +1,11 @@
 # Face-recognization-system-based-on-Qwen
 A Face recognization system based on artficial intelligence
+face_recognition_project
+│
+├── app.py                  # 主程序入口
+├── aliyun_face_recognition.py # 阿里云 SDK 封装
+├── database.py             # 数据库操作
+└── requirements.txt        # 依赖包清单
 1.  算法设计与开发
 •  负责研究和实现人脸识别算法。
 •  学习并应用机器学习和深度学习技术。
